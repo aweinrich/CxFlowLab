@@ -7,6 +7,7 @@ CxFlowMasterPush-Test5
 CxFlowMasterPush-Test6
 CxFlowMasterPush-Test7
 CxFlowMasterPush-Test8
+CxFlowMasterPush-Test9
 
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
